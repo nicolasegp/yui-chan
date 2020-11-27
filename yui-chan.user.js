@@ -7,8 +7,8 @@
 // @icon         https://i.imgur.com/WDgT7rKs.png
 // @match        *.animeflv.net/anime/*
 // @match        *.animeflv.net/ver/*
-// @downloadURL  https://git.io/JkdCt
-// @updateURL    https://git.io/JkdCt
+// @downloadURL  https://github.com/nicolasegp/yui-chan/raw/main/yui-chan.user.js
+// @updateURL    https://github.com/nicolasegp/yui-chan/raw/main/yui-chan.user.js
 // @grant        none
 // ==/UserScript==
 
