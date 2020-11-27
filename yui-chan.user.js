@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Yui-chan 🌸
 // @namespace    https://twitter.com/ImCatLord
-// @version      0.4
+// @version      0.5
 // @description  Script para facilitar la descarga desde AnimeFLV.net
 // @author       ImCatLord
 // @icon         https://i.imgur.com/WDgT7rKs.png
 // @match        *.animeflv.net/anime/*
 // @match        *.animeflv.net/ver/*
+// @downloadURL  https://git.io/JkdCt
+// @updateURL    https://git.io/JkdCt
 // @grant        none
 // ==/UserScript==
 
@@ -57,7 +59,7 @@
 						<div class="modal-body" id="yuiModalContenido">
 							Contenido
 						</div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		`);
