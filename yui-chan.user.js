@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yui-chan 🌸
 // @namespace    https://twitter.com/ImCatLord
-// @version      0.5
+// @version      0.6
 // @description  Script para facilitar la descarga desde AnimeFLV.net
 // @author       ImCatLord
 // @icon         https://i.imgur.com/WDgT7rKs.png
@@ -68,11 +68,14 @@
 				<div class="Top">
 					<div class="Title">Yui-chan 🌸</div>
 				</div>
-				<button class="yuiBtnAnime btn btn-primary" data-srv="zippyshare" type="button" style="background-color:#01bcf3;border:0;height:34px;margin-bottom:20px;">
-					Cargar ${episodes.length} episodio${episodes.length > 1 ? 's' : ''} por Zippyshare
+				<button class="yuiBtnAnime btn btn-primary" data-srv="streamtape" type="button" style="background-color:#01bcf3;border:0;height:34px;margin-bottom:20px;">
+					Cargar por Stape
 				</button>
 				<button class="yuiBtnAnime btn btn-primary" data-srv="mega" type="button" style="background-color:#01bcf3;border:0;height:34px;margin-bottom:20px;">
-					Cargar ${episodes.length} episodio${episodes.length > 1 ? 's' : ''} por Mega
+					Cargar por Mega
+				</button>
+				<button class="yuiBtnAnime btn btn-primary" data-srv="zippyshare" type="button" style="background-color:#01bcf3;border:0;height:34px;margin-bottom:20px;">
+					Cargar por Zippyshare
 				</button>
 			</section>
 		`);
